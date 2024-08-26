@@ -2,9 +2,9 @@
   "name": "Yugioh life points checker#0957",
   "version": "1.0.0",
   "description": "A Discord bot built with Node.js",
-  "main": "index.js",  
+  "main": "bot.js",  
   "scripts": {
-    "start": "node index.js"  
+    "start": "node bot.js"  
   },
   "dependencies": {
     "discord.js": "^14.0.0"  

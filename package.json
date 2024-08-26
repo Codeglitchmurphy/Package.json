@@ -1,5 +1,5 @@
 {
-  "name": "your-bot-name",
+  "name": "Yugioh life points checker#0957",
   "version": "1.0.0",
   "description": "A Discord bot built with Node.js",
   "main": "index.js",  // Change this if your main file is named differently

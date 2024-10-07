@@ -2,22 +2,22 @@
   "name": "my-discord-bot",
   "version": "1.0.0",
   "description": "A simple Discord bot using discord.js",
-  "main": "bot.js", // The main entry point of your bot
+  "main": "bot.js", t
   "scripts": {
-    "start": "node bot.js" // Command to start your bot
+    "start": "node bot.js" 
   },
   "keywords": [
     "discord",
     "bot",
     "discord.js"
   ],
-  "author": "Your Name", // Replace with your name
+  "author": "Ycodeglitch", 
   "license": "MIT",
   "dependencies": {
-    "discord.js": "^14.11.0", // Ensure this matches the version you need
-    "dotenv": "^16.0.3" // Include dotenv if you're using it for environment variables
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.0.3" 
   },
   "engines": {
-    "node": ">=16.0.0" // Minimum Node.js version required
+    "node": ">=16.0.0"
   }
 }

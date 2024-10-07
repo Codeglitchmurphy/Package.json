@@ -7,7 +7,7 @@
     "start": "node bot.js"  
   },
   "dependencies": {
-    "discord.js": "^14.0.0"  
+    npm install discord.js  
   },
   "engines": {
     "node": ">=16.9.0"  

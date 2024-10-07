@@ -1,13 +1,23 @@
 {
-  "name": "Breaking dimensions#6832",
+  "name": "my-discord-bot",
   "version": "1.0.0",
-  "description": "A Discord bot built with Node.js",
-  "main": "bot.js",  
+  "description": "A simple Discord bot using discord.js",
+  "main": "bot.js", // The main entry point of your bot
   "scripts": {
-    "start": "node bot.js"  
+    "start": "node bot.js" // Command to start your bot
   },
-  "dependencies": {npm install discord.js},
+  "keywords": [
+    "discord",
+    "bot",
+    "discord.js"
+  ],
+  "author": "Your Name", // Replace with your name
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.11.0", // Ensure this matches the version you need
+    "dotenv": "^16.0.3" // Include dotenv if you're using it for environment variables
+  },
   "engines": {
-    "node": ">=16.9.0"  
+    "node": ">=16.0.0" // Minimum Node.js version required
   }
 }

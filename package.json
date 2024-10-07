@@ -6,9 +6,7 @@
   "scripts": {
     "start": "node bot.js"  
   },
-  "dependencies": {
-    npm install discord.js  
-  },
+  "dependencies": {npm install discord.js},
   "engines": {
     "node": ">=16.9.0"  
   }
